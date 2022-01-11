@@ -7,7 +7,7 @@
 /**
 	Clase de negocio que representa un objeto.
 */
-export class Clase{
+export class Cancion{
 	//Atributos estáticos
 	static ESTADO = {
 		Estado1: Symbol(),
